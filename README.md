@@ -1,5 +1,5 @@
-# Question 3
-This question deals with making a multithreaded client-server model.
+# Client-Server Model
+This Project deals with making a multithreaded client-server model.
 - To get the executables, use the makefile as `make`
 - To run the server, use `./server <number of threads in threadpool>`
 - To run the client program, use `./client`
